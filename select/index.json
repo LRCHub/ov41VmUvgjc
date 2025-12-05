@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Transcend Lights",
+  "base_artist": "星咲あかり（CV：赤尾ひかる）、高瀬梨緒（CV：久保ユリカ）、柏木美亜（CV：和氣あず未）、東雲つむぎ（CV：和泉風花）、皇城セツナ（CV：八巻アンナ）",
+  "createdAt": "2025-12-05T14:30:58.027221Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Transcend Lights",
+      "artist": "星咲あかり(CV:赤尾ひかる)、高瀬梨緒(CV:久保ユリカ)、柏木美亜(CV:和氣あず未)、東雲つむぎ(CV:和泉風花)、皇城セツナ(CV:八巻アンナ)",
+      "has_synced": false,
+      "path": "select/pl_01_Transcend_Lights_星咲あかり(CV_赤尾ひかる)、高瀬梨緒(CV_久保ユリカ)、柏木美亜(CV_和氣あず未)、東雲つむぎ(CV_和泉風花)、皇城セツナ(CV_八巻アンナ).txt"
+    }
+  ]
+}
